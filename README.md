@@ -1,5 +1,4 @@
 ### FUCK Tencent
-##备份
 <div align="center">
    <img width="160" src="docs/mirai.png" alt="logo"></br>
 
